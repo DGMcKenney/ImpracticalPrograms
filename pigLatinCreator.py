@@ -2,6 +2,8 @@
 #translates sentences into Pig Latin
 #douglas mckenney
 
+#current issues: can't handle apostrophies; can't handle initial digraphs
+
 def main():
     print("**Igpay Atinlay Eneratorgay 0005ay**")
     sentence = input("\nPlease enter an English sentence: ")
