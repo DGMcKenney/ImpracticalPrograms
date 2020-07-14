@@ -1,3 +1,3 @@
 # Impractical Programs
 
-Python Programs inspired by *Impractical Python Projects* by Lee Vaughan
+They don't do much, but they do amuse me.
